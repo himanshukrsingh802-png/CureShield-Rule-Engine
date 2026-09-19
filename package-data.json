@@ -1,8 +1,18 @@
 {
-    "decelaration":{
-        "productname": "Goodday Biscute",
-        "mrp": "20",
-        "netqantity":100
-        
+    "classification":{
+        "productcategory": "food",
+        "pacakgetype":"retail",
+        "isimported":"False"
+},
+    "declarations":{
+        "productName": "Biscute",
+        "netQuantity":100,
+        "quantityUnit" :"g",
+        "mrp":20,
+        "currency":"INR",
+        "taxInclusive":true,
+        "manufacturerName": "Example food",
+        "manufacturereAddress":"Example Address"
+    
     }
 }
