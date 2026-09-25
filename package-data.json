@@ -1,15 +1,16 @@
-{
+{ "productId": "PKG-001",
     "classification":{
         "productcategory": "food",
         "pacakgetype":"retail",
+        "quentityType": "mass",
         "isimported":"False"
 },
     "declarations":{
-        "productName": "Biscute",
+        "productName": "Kurkure",
         "netQuantity":100,
         "quantityUnit" :"g",
         "mrp":20,
-        "currency":"INR",
+        "currency":"",
         "taxInclusive":true,
         "manufacturerName": "Example food",
         "manufacturereAddress":"Example Address"
